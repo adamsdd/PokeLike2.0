@@ -1,0 +1,17 @@
+{
+  "name": "PokeLike",
+  "short_name": "PokeLike",
+  "description": "Pokemon Roguelike",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#e63946",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ]
+}
